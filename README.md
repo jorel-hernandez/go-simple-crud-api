@@ -70,7 +70,7 @@ DELETE article
 curl --location --request DELETE 'http://localhost:10000/article/3'
 
 # Respose:
-None
+None body
 ```
 
 # Source
